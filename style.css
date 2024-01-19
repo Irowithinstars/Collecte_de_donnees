@@ -1,0 +1,25 @@
+
+button{
+    height: 40px;
+    margin-left: 45px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+input[type="range" i] {
+    appearance: none;
+    cursor: default;
+    color: -internal-light-dark(rgb(16, 16, 16), rgb(255, 255, 255));
+    padding: initial;
+    border: initial;
+    margin: 20px;
+}
+
+
+
+element.style {
+    display: none;
+    width: 1180px;
+    height: 880px;
+}
