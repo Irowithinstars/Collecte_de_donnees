@@ -1,5 +1,3 @@
-!!! le site ne fonctionne plus meme sur mes fichier d'origine, j'essairai de regler le probleme le lendemain etant actuellement dans un etat de fatigue poussée !!!
-
 Comme nous en avions discuter j'ai choisi des yeux au styles divers !
 
 Sakura - Sakura Card captor
